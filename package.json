@@ -1,0 +1,9 @@
+{
+  "name": "cache-reflector",
+  "version": "0.2.1",
+  "description": "minimalistic and easy-to-use cache manipulator",
+  "main": "library.js",
+  "keywords": ["cache", "cacher"],
+  "author": "ShapeX",
+  "license": "MIT"
+}
